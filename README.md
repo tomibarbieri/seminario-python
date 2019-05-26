@@ -5,4 +5,5 @@ Apuntes y scripts para el Seminario de lenguajes - Opción Python (Facultad de i
 
 - [Excepciones](https://github.com/tomibarbieri/seminario-python/tree/master/exceptions)
 - List comprehension (*en proceso*)
+- Virtual env (*en proceso*)
 
