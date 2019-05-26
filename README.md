@@ -3,6 +3,6 @@ Apuntes y scripts para el Seminario de lenguajes - Opción Python (Facultad de i
 
 ## Apuntes
 
-- [Excepciones]()
+- [Excepciones](https://github.com/tomibarbieri/seminario-python/tree/master/exceptions)
 - List comprehension (*en proceso*)
 
